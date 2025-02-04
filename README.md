@@ -2,7 +2,7 @@
 
 - I am still learning how to use GitHub.
 - I'm currently taking a bachelor's degree in Meteorology.
-- My research is about a climate study of a certain area using ERA5 data.
-- I suck at coding (which sucks because my program is lowkey "data science") and I need MAJOR HELP in that field.
+- My undergraduate thesis is about the climate zones of a certain area determined using ERA5 data.
+- My coding skills are fair at best and may be limited to unsupervised machine learning particularly in applying K-means clustering.
 - I also play games.
 
